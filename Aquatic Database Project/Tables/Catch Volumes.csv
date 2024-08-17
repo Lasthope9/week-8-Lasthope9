@@ -1,0 +1,59 @@
+CatchID,SpeciesID,CommunityID,CatchVolume,CatchValue,CatchDate,FishingMethod,WeatherConditions
+1,1,1,500.00,1500.00,2024-01-05,Gillnetting,Clear
+2,2,1,300.00,900.00,2024-01-15,Trawling,"Partly Cloudy"
+3,3,2,600.00,1800.00,2024-02-20,Longlining,Rain
+4,4,2,400.00,1200.00,2024-03-01,Gillnetting,Clear
+5,5,3,450.00,1350.00,2024-03-15,Trawling,Overcast
+6,6,3,350.00,1050.00,2024-04-10,Longlining,Rain
+7,7,4,700.00,2100.00,2024-04-20,Gillnetting,Clear
+8,8,4,300.00,900.00,2024-05-05,Trawling,Clear
+9,9,5,800.00,2400.00,2024-05-15,Longlining,"Partly Cloudy"
+10,10,5,200.00,600.00,2024-06-01,Gillnetting,"Partly Cloudy"
+11,11,6,550.00,1650.00,2024-06-10,Trawling,Rain
+12,12,6,400.00,1200.00,2024-07-01,Longlining,Clear
+13,13,7,650.00,1950.00,2024-07-15,Gillnetting,Overcast
+14,14,7,300.00,900.00,2024-08-05,Trawling,Clear
+15,15,8,500.00,1500.00,2024-08-15,Longlining,Rain
+16,16,8,350.00,1050.00,2024-09-01,Gillnetting,Overcast
+17,17,9,600.00,1800.00,2024-09-10,Trawling,Clear
+18,18,9,400.00,1200.00,2024-10-01,Longlining,"Partly Cloudy"
+19,19,10,700.00,2100.00,2024-10-15,Gillnetting,Rain
+20,20,10,250.00,750.00,2024-11-01,Trawling,Clear
+21,21,11,800.00,2400.00,2024-11-15,Longlining,Overcast
+22,22,11,500.00,1500.00,2024-12-01,Gillnetting,Clear
+23,23,12,600.00,1800.00,2024-12-15,Trawling,"Partly Cloudy"
+24,1,13,450.00,1350.00,2024-12-20,Longlining,Rain
+25,2,13,300.00,900.00,2024-12-25,Gillnetting,Clear
+26,3,14,550.00,1650.00,2024-12-30,Trawling,Overcast
+27,4,14,400.00,1200.00,2024-12-31,Longlining,"Partly Cloudy"
+28,5,15,500.00,1500.00,2024-12-10,Gillnetting,Clear
+29,6,15,350.00,1050.00,2024-12-20,Trawling,Rain
+30,7,16,600.00,1800.00,2024-12-25,Longlining,Overcast
+31,8,16,250.00,750.00,2024-12-30,Gillnetting,Clear
+32,9,17,700.00,2100.00,2024-12-15,Trawling,"Partly Cloudy"
+33,10,17,300.00,900.00,2024-12-20,Longlining,Clear
+34,11,18,450.00,1350.00,2024-12-25,Gillnetting,Rain
+35,12,18,350.00,1050.00,2024-12-30,Trawling,Overcast
+36,13,19,500.00,1500.00,2024-12-05,Longlining,Clear
+37,14,19,400.00,1200.00,2024-12-15,Gillnetting,"Partly Cloudy"
+38,15,20,600.00,1800.00,2024-12-20,Trawling,Rain
+39,16,20,500.00,1500.00,2024-12-25,Longlining,Clear
+40,17,21,700.00,2100.00,2024-12-30,Gillnetting,Overcast
+41,18,21,600.00,1800.00,2024-12-31,Trawling,"Partly Cloudy"
+42,19,22,800.00,2400.00,2024-12-10,Longlining,Clear
+43,20,22,300.00,900.00,2024-12-20,Gillnetting,Rain
+44,21,23,450.00,1350.00,2024-12-25,Trawling,"Partly Cloudy"
+45,22,23,550.00,1650.00,2024-12-30,Longlining,Overcast
+46,23,24,600.00,1800.00,2024-12-05,Gillnetting,Clear
+47,1,25,400.00,1200.00,2024-12-10,Trawling,Rain
+48,2,25,700.00,2100.00,2024-12-15,Longlining,Clear
+49,3,26,500.00,1500.00,2024-12-20,Gillnetting,Overcast
+50,4,26,300.00,900.00,2024-12-25,Trawling,"Partly Cloudy"
+51,5,27,450.00,1350.00,2024-12-30,Longlining,Clear
+52,6,27,600.00,1800.00,2024-12-31,Gillnetting,Rain
+53,7,28,250.00,750.00,2024-12-05,Trawling,Clear
+54,8,28,500.00,1500.00,2024-12-10,Longlining,Overcast
+55,9,29,350.00,1050.00,2024-12-15,Gillnetting,Clear
+56,10,29,600.00,1800.00,2024-12-20,Trawling,Rain
+57,11,30,700.00,2100.00,2024-12-25,Longlining,Clear
+58,12,30,400.00,1200.00,2024-12-30,Gillnetting,Overcast

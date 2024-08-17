@@ -1,0 +1,24 @@
+SpeciesName,CommercialValue,AverageSize,Population
+Salmon,20.00,75.00,120000
+Tuna,150.00,200.00,50000
+Grouper,30.00,60.00,80000
+Anchovy,5.00,25.00,200000
+Swordfish,200.00,250.00,15000
+Char,10.00,50.00,30000
+Toothfish,180.00,100.00,12000
+"Baltic Herring",7.00,30.00,500000
+"Red Sea Snapper",25.00,45.00,60000
+"Great Lakes Walleye",15.00,50.00,100000
+Shrimp,2.00,15.00,200000
+Cod,40.00,80.00,45000
+Mackerel,20.00,40.00,120000
+"Pacific Halibut",60.00,100.00,30000
+"Australian Barramundi",45.00,90.00,70000
+"Norwegian Herring",10.00,25.00,200000
+Catfish,25.00,50.00,60000
+"Hawaiian Mahi Mahi",30.00,50.00,50000
+"Alaskan Pollock",15.00,40.00,100000
+"South African Yellowtail",50.00,60.00,40000
+"Japanese Amberjack",60.00,80.00,20000
+"Bering Sea Crab",25.00,30.00,50000
+"Mongolian Carp",20.00,50.00,60000

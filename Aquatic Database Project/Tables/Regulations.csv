@@ -1,0 +1,24 @@
+RegulationID,SpeciesID,RegionID,Quota,RegulationDate,ExpiryDate,EnforcementAgency,Penalties
+1,1,1,1500.00,2024-01-01,2024-01-20,"Regional Fisheries Authority",5000.00
+2,2,2,1200.00,2024-02-01,2024-02-21,"National Marine Service",4500.00
+3,3,3,2000.00,2024-03-01,2024-03-22,"Coastal Conservation Unit",6000.00
+4,4,4,1800.00,2024-04-01,2024-04-21,"Marine Protection Agency",5500.00
+5,5,5,1600.00,2024-05-01,2024-05-22,"Fisheries Regulatory Board",5000.00
+6,6,6,1400.00,2024-06-01,2024-06-21,"Aquatic Resources Council",5200.00
+7,7,7,1300.00,2024-07-01,2024-07-22,"Sea Life Conservation Group",4900.00
+8,8,8,1700.00,2024-08-01,2024-08-22,"Oceanic Enforcement Office",5300.00
+9,9,9,1500.00,2024-09-01,2024-09-22,"Marine Resources Authority",5100.00
+10,10,10,1400.00,2024-10-01,2024-10-22,"National Fisheries Commission",4800.00
+11,11,11,2000.00,2024-11-01,2024-11-21,"Regional Marine Agency",6000.00
+12,12,12,1700.00,2024-12-01,2024-12-21,"Coastal Resource Management",5400.00
+13,13,13,1600.00,2024-01-15,2024-02-04,"Marine Regulatory Authority",5000.00
+14,14,14,1800.00,2024-02-15,2024-03-06,"Aquatic Management Board",5600.00
+15,15,15,1500.00,2024-03-15,2024-04-04,"National Conservation Bureau",5100.00
+16,16,1,1200.00,2024-04-15,2024-05-05,"Oceanic Surveillance Unit",4700.00
+17,17,2,1400.00,2024-05-15,2024-06-04,"Fisheries Protection Service",4900.00
+18,18,3,1800.00,2024-06-15,2024-07-05,"Marine Safety Agency",5500.00
+19,19,4,1500.00,2024-07-15,2024-08-04,"Sea Conservation Authority",5300.00
+20,20,5,1700.00,2024-08-15,2024-09-04,"Coastal Surveillance Bureau",5000.00
+21,21,6,1300.00,2024-09-15,2024-10-05,"Marine Enforcement Unit",5200.00
+22,22,7,1400.00,2024-10-15,2024-11-04,"National Marine Authority",5100.00
+23,23,8,1500.00,2024-11-15,2024-12-05,"Aquatic Resource Authority",5400.00

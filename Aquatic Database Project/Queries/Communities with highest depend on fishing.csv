@@ -1,0 +1,11 @@
+CommunityName,RegionID,Population,AverageIncome
+"Coastal Guardians",1,1500,25000.00
+"Tuna Hunters",2,2500,30000.00
+"Swordfish Chasers",5,2200,32000.00
+"Great Lakes Anglers",10,2000,29000.00
+"Gulf Shrimpers",11,3000,35000.00
+"Cod Catchers",14,1700,28000.00
+"Mackerel Fleet",15,2500,32000.00
+"Mahi Mahi Fishermen",9,1500,30000.00
+"Pollock Patrol",10,2100,32000.00
+"Carp Collectors",15,2000,29000.00

@@ -1,0 +1,16 @@
+IndustryID,IndustryName,RegionID,Revenue,EmploymentLevel,DependenceOnFishing,IndustryType,YearEstablished,CertificationStatus,ExportPercentage
+1,"Atlantic Seafood Ltd.",1,5000000.00,150,High,Processing,2005,Certified,75.00
+2,"Pacific Fishing Co.",3,7000000.00,200,Medium,Distribution,1998,Non-Certified,50.00
+3,"Caribbean Fisheries Inc.",9,3000000.00,80,High,Retail,2010,Certified,40.00
+4,"Mediterranean Marine Harvest",8,4500000.00,120,Medium,Export,2002,Certified,60.00
+5,"Indian Ocean Trawlers",5,6000000.00,180,Low,Processing,2015,Non-Certified,30.00
+6,"Arctic Aquaculture",6,2000000.00,60,Low,Processing,2020,Certified,10.00
+7,"Antarctic Seafood Ventures",7,1500000.00,40,Low,Distribution,2018,Certified,5.00
+8,"Baltic Sea Fishing Ltd.",11,3500000.00,100,Medium,Retail,2008,Certified,55.00
+9,"Red Sea Aquatics",10,4000000.00,110,Medium,Export,2012,Certified,45.00
+10,"Great Lakes Fisheries",14,2500000.00,70,High,Retail,2006,Non-Certified,35.00
+11,"Gulf of Mexico Fishing Co.",15,5000000.00,140,High,Processing,2000,Certified,80.00
+12,"Adriatic Sea Harvesters",12,2750000.00,90,Medium,Processing,2009,Certified,50.00
+13,"Coral Triangle Seafood",13,3500000.00,95,High,Distribution,2011,Certified,65.00
+14,"South Atlantic Trawlers",2,4000000.00,110,Medium,Export,2004,Non-Certified,45.00
+15,"South Pacific Fisheries",4,5500000.00,160,Medium,Retail,2007,Certified,55.00
